@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1",
+    "title": "Iphone 14",
+    "descriptions": "The iPhone 14 features a sleek design, powerful A15 Bionic chip, and improved camera system.",
+    "price": "1349$",
+    "image": "https://img.texch.net/2022/09/20220912202933_61-1200x740.jpg"
+  },
+  {
+    "id": "2",
+    "title": "Iphone 15",
+    "descriptions": "The iPhone 15 offers enhanced performance with the A16 Bionic chip and advanced camera capabilities.",
+    "price": "1449$",
+    "image": "https://cdsassets.apple.com/live/7WUAS350/images/tech-specs/iphone_15_hero.png"
+  },
+  {
+    "id": "3",
+    "title": "Samsung Galaxy S22",
+    "descriptions": "The Galaxy S22 comes with a dynamic AMOLED display and the latest Snapdragon processor for top-notch performance.",
+    "price": "999$",
+    "image": "https://www.ubuy.com.kh/productimg/?image=aHR0cHM6Ly9pNS53YWxtYXJ0aW1hZ2VzLmNvbS9zZW8vU2Ftc3VuZy1HYWxheHktUzIyLVVsdHJhLTVHLTEyOC0yNTZHQi0xVEItU00tUzkwOFUxLVVubG9ja2VkLUNlbGwtUGhvbmVzLUFsbC1Db2xvcnMtR29vZC1Db25kaXRpb25fMGI0YjcxNjYtMjY4OC00ZTBjLTk1NGQtNTM5ZDVlYTI5YWQ5LjU5NDYxMTBmZTJhMmMyMWNkYTBiMjU2ZTI5NjlhNTU1LmpwZWc.jpg"
+  },
+  {
+    "id": "4",
+    "title": "Google Pixel 7",
+    "descriptions": "The Pixel 7 features Google's Tensor chip and an exceptional camera system with enhanced AI capabilities.",
+    "price": "699$",
+    "image": "https://i.ytimg.com/vi/NE5H5intsck/maxresdefault.jpg"
+  },
+  {
+    "id": "5",
+    "title": "OnePlus 11",
+    "descriptions": "The OnePlus 11 boasts a high refresh rate display, fast charging, and powerful hardware for a smooth experience.",
+    "price": "849$",
+    "image": "https://cdn.vox-cdn.com/thumbor/XzzgwoTqVsLO17NQdlUnYA3subc=/0x0:7072x4715/2000x1333/filters:focal(3536x2358:3537x2359)/cdn.vox-cdn.com/uploads/chorus_asset/file/24412228/OnePlus_11___render___group_render_1.jpg"
+  }
+]

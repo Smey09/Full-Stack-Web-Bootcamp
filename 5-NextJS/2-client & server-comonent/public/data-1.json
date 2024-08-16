@@ -1,0 +1,252 @@
+[
+  {
+    "id": 1,
+    "name": "Galaxy Z Fold 6",
+    "model": "SM-F936B",
+    "brand": "Samsung",
+    "price": 1799.99,
+    "description": "A premium foldable smartphone with a large 7.6-inch AMOLED display and powerful specs.",
+    "about": "The Galaxy Z Fold 6 features Samsung's latest foldable technology, offering a spacious screen for multitasking and immersive entertainment.",
+    "image": "https://images.fonearena.com/blog/wp-content/uploads/2024/07/Samsung-Galxy-Z-Fold-6-1-1024x643.jpg"
+  },
+  {
+    "id": 2,
+    "name": "iPhone 16 Pro Max",
+    "model": "A2988",
+    "brand": "Apple",
+    "price": 1199.99,
+    "description": "Apple's flagship smartphone with advanced A17 Bionic chip and ProMotion display.",
+    "about": "The iPhone 16 Pro Max delivers top-tier performance, enhanced camera capabilities, and a stunning Super Retina XDR display.",
+    "image": "https://tech.news.am/static/news/b/2024/01/2786.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Pixel 9 Pro",
+    "model": "GVU6C",
+    "brand": "Google",
+    "price": 999.99,
+    "description": "Google's latest phone featuring the Tensor G3 chip and an improved camera system.",
+    "about": "The Pixel 9 Pro offers a pure Android experience with cutting-edge AI features and a versatile camera setup.",
+    "image": "https://static.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/p2/56/2024/04/01/Google-Rilis-Tiga-Model-Pixel-9-Berbeda-Apa-yang-Beda-dari-Versi-Sebelumnya-3132040437.jpg"
+  },
+  {
+    "id": 4,
+    "name": "OnePlus 12T",
+    "model": "CPH2413",
+    "brand": "OnePlus",
+    "price": 749.99,
+    "description": "A high-performance smartphone with a 120Hz AMOLED display and fast charging capabilities.",
+    "about": "The OnePlus 12T provides a balanced performance with a high refresh rate display and rapid charging for a seamless experience.",
+    "image": "https://images.media-outreach.com/452105/Waffle-Main-KV-Dark-Horizontal-R.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Xiaomi Mi 13 Ultra",
+    "model": "2206123C",
+    "brand": "Xiaomi",
+    "price": 899.99,
+    "description": "A powerful device with a high-resolution camera system and fast processing capabilities.",
+    "about": "The Xiaomi Mi 13 Ultra is designed for users who want top-tier performance and exceptional photography features.",
+    "image": "https://assets.hardwarezone.com/img/2023/06/xiaomi-13-ultra-00.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Sony Xperia 1 V",
+    "model": "XQ-DC54",
+    "brand": "Sony",
+    "price": 1199.99,
+    "description": "A flagship smartphone with a 4K OLED display and advanced camera features.",
+    "about": "The Sony Xperia 1 V offers a cinematic experience with its 4K HDR OLED display and professional-grade camera system.",
+    "image": "https://cdn.mos.cms.futurecdn.net/XJ28Sj8p8qbQ3yvGg3dAsk.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Huawei P60 Pro",
+    "model": "LNA-AN00",
+    "brand": "Huawei",
+    "price": 1099.99,
+    "description": "A high-end smartphone with a stunning design and powerful Leica camera.",
+    "about": "The Huawei P60 Pro features a sleek design and an impressive Leica camera system for exceptional photography.",
+    "image": "https://cdn.tatlerasia.com/tatlerasia/i/2023/05/09135624-6-p60-pro-appgallery-copy_cover_1600x900.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Oppo Find X6 Pro",
+    "model": "CPH2211",
+    "brand": "Oppo",
+    "price": 899.99,
+    "description": "A premium smartphone with a high refresh rate display and advanced camera capabilities.",
+    "about": "The Oppo Find X6 Pro delivers a smooth user experience with its 120Hz display and versatile camera system.",
+    "image": "https://cdn.gadgetbytenepal.com/wp-content/uploads/2023/03/Oppo-Find-X6-Pro-Price-in-Nepal-2023.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Asus ROG Phone 7",
+    "model": "AI2205",
+    "brand": "Asus",
+    "price": 999.99,
+    "description": "A gaming smartphone with a high refresh rate AMOLED display and powerful performance.",
+    "about": "The Asus ROG Phone 7 is built for gamers, featuring a 144Hz AMOLED display and robust hardware for smooth gameplay.",
+    "image": "https://cdn.mos.cms.futurecdn.net/iftdFwwUV4iJwnzX48YwoM-1200-80.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Nokia XR20",
+    "model": "TA-1362",
+    "brand": "Nokia",
+    "price": 599.99,
+    "description": "A rugged smartphone with military-grade durability and long battery life.",
+    "about": "The Nokia XR20 is designed to withstand tough conditions, featuring a durable build and extended battery life.",
+    "image": "https://cdn.techmesto.com/wp-content/uploads/2021/07/Nokia-XR20.png"
+  },
+  {
+    "id": 11,
+    "name": "Motorola Edge 40 Pro",
+    "model": "XT2301-4",
+    "brand": "Motorola",
+    "price": 899.99,
+    "description": "A sleek smartphone with a curved OLED display and fast charging capabilities.",
+    "about": "The Motorola Edge 40 Pro offers an immersive viewing experience with its curved OLED display and rapid charging technology.",
+    "image": "https://i.gadgets360cdn.com/large/Motorola_Edge_40_Pro_Evan_Blass_big_ndtv_1678085585298.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Realme GT 3",
+    "model": "RMX3575",
+    "brand": "Realme",
+    "price": 499.99,
+    "description": "A budget-friendly smartphone with a high refresh rate display and large battery.",
+    "about": "The Realme GT 3 provides excellent value with its 120Hz display and long-lasting battery at an affordable price.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7J4bzzOGZwW_gKEYOxfD_RXZJzDJJI7mwWA&s"
+  },
+  {
+    "id": 13,
+    "name": "Vivo X80 Pro",
+    "model": "V2186A",
+    "brand": "Vivo",
+    "price": 999.99,
+    "description": "A premium smartphone with a ZEISS camera system and high refresh rate display.",
+    "about": "The Vivo X80 Pro combines advanced camera technology from ZEISS with a smooth 120Hz display for a superior user experience.",
+    "image": "https://www.androidheadlines.com/wp-content/uploads/2022/05/Vivo-X80-Pro-AH-HR-Feature-scaled.jpg"
+  },
+  {
+    "id": 14,
+    "name": "ZTE Axon 40 Ultra",
+    "model": "A2023G",
+    "brand": "ZTE",
+    "price": 799.99,
+    "description": "A flagship smartphone with an under-display camera and high-end specifications.",
+    "about": "The ZTE Axon 40 Ultra features an innovative under-display camera and powerful performance for a seamless user experience.",
+    "image": "https://i.gadgets360cdn.com/large/zte_axon_40_pro_black_silver_1652096991907.jpg"
+  },
+  {
+    "id": 15,
+    "name": "LG V70 ThinQ",
+    "model": "LM-V700N",
+    "brand": "LG",
+    "price": 899.99,
+    "description": "A high-performance smartphone with an OLED display and advanced audio features.",
+    "about": "The LG V70 ThinQ offers a superior multimedia experience with its vibrant OLED display and enhanced audio capabilities.",
+    "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/LG_V60_Verge.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Samsung Galaxy S24 Ultra",
+    "model": "SM-S908B",
+    "brand": "Samsung",
+    "price": 1299.99,
+    "description": "A flagship smartphone with a powerful camera system and S Pen support.",
+    "about": "The Samsung Galaxy S24 Ultra offers top-of-the-line performance, a versatile camera setup, and the convenience of the S Pen.",
+    "image": "https://amateurphotographer.com/wp-content/uploads/sites/7/2024/01/samsung-galaxy-s24-ultra-JW-AP-cameras-bokeh-IMG_20240115_145323.jpg"
+  },
+  {
+    "id": 17,
+    "name": "iPhone 15 Pro Max",
+    "model": "A2894",
+    "brand": "Apple",
+    "price": 1399.99,
+    "description": "A flagship iPhone with superb camera and performance.",
+    "about": "The iPhone 15 Pro Max offers fast, smooth performance, excellent cameras, and long battery life.",
+    "image": "https://9to5mac.com/wp-content/uploads/sites/6/2023/08/gold-iphone-14-pro.png?w=1600"
+  },
+  {
+    "id": 18,
+    "name": "Google Pixel 8 Pro",
+    "model": "GA03902",
+    "brand": "Google",
+    "price": 999.99,
+    "description": "A smartphone with smart camera features and excellent performance.",
+    "about": "The Google Pixel 8 Pro is praised for its smart camera features and smooth performance.",
+    "image": "https://assets.hardwarezone.com/img/2023/10/google-pixel-8-reveal-4-oct.jpg"
+  },
+  {
+    "id": 19,
+    "name": "OnePlus Open",
+    "model": "OP2024",
+    "brand": "OnePlus",
+    "price": 1499.99,
+    "description": "A foldable smartphone with a tablet-style design.",
+    "about": "The OnePlus Open offers a large, flexible display and high-end performance.",
+    "image": "https://images.fonearena.com/blog/wp-content/uploads/2023/10/OnePlus-Open_fonearena-2-1.jpg"
+  },
+  {
+    "id": 20,
+    "name": "Samsung Galaxy Z Fold 5",
+    "model": "SM-F946B",
+    "brand": "Samsung",
+    "price": 1799.99,
+    "description": "A versatile foldable smartphone with an expansive inner screen.",
+    "about": "The Samsung Galaxy Z Fold 5 provides a unique foldable experience with a large, immersive display.",
+    "image": "https://images.samsung.com/us/smartphones/galaxy-z-fold5/images/galaxy-z-fold5-highlights-multitasking-mo.jpg?imbypass=true"
+  },
+  {
+    "id": 21,
+    "name": "Google Pixel 8",
+    "model": "GA03901",
+    "brand": "Google",
+    "price": 699.99,
+    "description": "An affordable smartphone with smart features.",
+    "about": "The Google Pixel 8 offers great value with its smart features and solid performance.",
+    "image": "https://9to5google.com/wp-content/uploads/sites/4/2023/08/pixel-8-pro-audio-magic-eraser-7.jpg?quality=82&strip=all"
+  },
+  {
+    "id": 22,
+    "name": "Samsung Galaxy A15 5G",
+    "model": "SM-A156B",
+    "brand": "Samsung",
+    "price": 299.99,
+    "description": "A budget-friendly smartphone with 5G connectivity.",
+    "about": "The Samsung Galaxy A15 5G provides excellent value with its 5G connectivity and reliable performance.",
+    "image": "https://media.licdn.com/dms/image/D5612AQGZRvgpPuULhw/article-inline_image-shrink_400_744/0/1705999209790?e=1728518400&v=beta&t=SPOpG5UhkpL-72VFdDLlXnyaXwEe9D3-CEtyaXz4xfY"
+  },
+  {
+    "id": 23,
+    "name": "Motorola Razr+",
+    "model": "XT2321",
+    "brand": "Motorola",
+    "price": 999.99,
+    "description": "A modern flip phone with a flexible display.",
+    "about": "The Motorola Razr+ combines a nostalgic flip design with modern smartphone features.",
+    "image": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2023/06/motorola-razr-2023-plus-key-graphic.jpg"
+  },
+  {
+    "id": 24,
+    "name": "OnePlus 12",
+    "model": "OP2024",
+    "brand": "OnePlus",
+    "price": 799.99,
+    "description": "A flagship smartphone with excellent value.",
+    "about": "The OnePlus 12 offers high-end performance and features at a competitive price.",
+    "image": "https://i.gadgets360cdn.com/large/oneplus_11_5g_marble_odyssey_1689855190876.jpg"
+  },
+  {
+    "id": 25,
+    "name": "Asus ROG Phone 8 Pro",
+    "model": "ZS673KS",
+    "brand": "Asus",
+    "price": 1099.99,
+    "description": "A gaming smartphone with top-tier performance.",
+    "about": "The Asus ROG Phone 8 Pro is designed for gamers, offering powerful performance and gaming-specific features.",
+    "image": "https://cdn.wccftech.com/wp-content/uploads/2024/01/ROG-Phone-8.jpg"
+  }
+]
