@@ -1,0 +1,151 @@
+{
+  "categories": [
+    {
+      "id": "1",
+      "title": "Syringe and needles",
+      "image": "../assets/products/image-1.jpg"
+    },
+    {
+      "id": "2",
+      "title": "Suture",
+      "image": "../assets/products/image-2.jpg"
+    },
+    {
+      "id": "3",
+      "title": "Blood Bag",
+      "image": "../assets/products/image-3.jpg"
+    },
+    {
+      "id": "4",
+      "title": "Blood Lancet",
+      "image": "../assets/products/image-4.jpg"
+    },
+    {
+      "id": "5",
+      "title": "Urine Bag",
+      "image": "../assets/products/image-5.jpg"
+    },
+    {
+      "id": "6",
+      "title": "Medical Tube",
+      "image": "../assets/products/image-6.jpg"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Sarasoft AG 12",
+      "category": "HealthCare",
+      "price": 14.99,
+      "originalPrice": 20.99,
+      "imageUrl": "assets/products/products.jpg",
+      "rating": 4.0,
+      "Sale_discount": 50
+    },
+    {
+      "id": 2,
+      "name": "Sarasoft AG",
+      "category": "HealthCare",
+      "price": 14.99,
+      "originalPrice": 20.99,
+      "imageUrl": "assets/products/products.jpg",
+      "rating": 4.0,
+      "Sale_discount": 25
+    },
+    {
+      "id": 3,
+      "name": "Sarasoft AG",
+      "category": "HealthCare",
+      "price": 14.99,
+      "originalPrice": 20.99,
+      "imageUrl": "assets/products/products.jpg",
+      "rating": 4.0,
+      "Sale_discount": 50
+    },
+    {
+      "id": 4,
+      "name": "Sarasoft AG",
+      "category": "HealthCare",
+      "price": 14.99,
+      "originalPrice": 20.99,
+      "imageUrl": "assets/products/products.jpg",
+      "rating": 4.0,
+      "Sale_discount": null
+    },
+    {
+      "id": 5,
+      "name": "Sarasoft AG",
+      "category": "HealthCare",
+      "price": 14.99,
+      "originalPrice": 20.99,
+      "imageUrl": "assets/products/products.jpg",
+      "rating": 4.0,
+      "Sale_discount": 25
+    },
+    {
+      "id": 6,
+      "name": "Sarasoft AG",
+      "category": "HealthCare",
+      "price": 14.99,
+      "originalPrice": 20.99,
+      "imageUrl": "assets/products/products.jpg",
+      "rating": 4.0,
+      "Sale_discount": 50
+    },
+    {
+      "id": 7,
+      "name": "Sarasoft AG",
+      "category": "HealthCare",
+      "price": 14.99,
+      "originalPrice": 20.99,
+      "imageUrl": "assets/products/products.jpg",
+      "rating": 4.0,
+      "Sale_discount": 25
+    },
+    {
+      "id": 8,
+      "name": "Sarasoft AG",
+      "category": "HealthCare",
+      "price": 14.99,
+      "originalPrice": 20.99,
+      "imageUrl": "assets/products/products.jpg",
+      "rating": 4.0,
+      "Sale_discount": null
+    }
+  ],
+  "sponser": [
+    {
+      "id": "1",
+      "title": "Steps",
+      "image": "../assets/Sponser/sp-1.png"
+    },
+    {
+      "id": "2",
+      "title": "Mango",
+      "image": "../assets/Sponser/sp-2.png"
+    },
+    {
+      "id": "3",
+      "title": "Foods",
+      "image": "../assets/Sponser/sp-3.png"
+    },
+    {
+      "id": "4",
+      "title": "Foods2",
+      "image": "../assets/Sponser/sp-4.png"
+    },
+    {
+      "id": "5",
+      "title": "Book-off",
+      "image": "../assets/Sponser/sp-5.png"
+    },
+    {
+      "id": "6",
+      "title": "G-series",
+      "image": "../assets/Sponser/sp-6.png"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

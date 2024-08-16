@@ -1,0 +1,1 @@
+test write and write file in javascrip

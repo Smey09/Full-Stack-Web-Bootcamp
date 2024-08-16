@@ -1,0 +1,24 @@
+1. Callback Hell with Mock Database
+    Implement a series of nested asynchronous functions to simulate querying a mock database, 
+    processing the data and then outputting the result. Each step should rely on the completion of the previous one.
+    a. Create a mock database: 
+        [{id: 1, name: “sok”}, {id: 2, name; “sao”}, {id: 3, name: “pisey”}]
+    b. Write a function that could get user info by its id. 
+        Note the user object should return after 2 seconds. 
+        If the user is not found, it should return an error.
+    c. Write a function that could process the user data by capitalizing the user name. 
+        Note, the process data should be execute around 1.5 seconds
+    d. Execute and Process: Use example b and c in order. 
+        Finally print the processed user data to the console
+
+    ** Note: This exercise should only use a callback function.
+
+2.	Following from the exercise 3, 4 (JS-P4), 
+    convert all the readFile and writeFile function	
+    to Promise, then use it to complete the process like in exercise 5 (JS-P4). 
+    Noted in this exercise, must use .then and catch.
+
+3.	Following from the exercise 3, 4 (JS-P4), 
+    convert all the readFile and writeFile function		
+    to Promise, then use it to complete the process like in exercise 5 (JS-P4). 
+    Noted in this exercise, must use async & await.

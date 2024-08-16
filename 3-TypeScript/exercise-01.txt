@@ -1,0 +1,27 @@
+# Day 01
+
+### Question
+
+1 What is TypeScript? TypeScript vs JavaScript?
+2 How to define Primitive type? (string, number, boolean, undefined, null)
+3 What is Union Type? Provide Examples.
+4 What is the type “any”?
+5 What is Literal Type? Example.
+6 How to define type in Function including parameter, return type? Example.
+7 How to define type in object? Example.
+8 How to define type in Array? Example
+9 What is Type Alias? Example
+10 What is Interface? Example.
+11 What is Generic Type? Example.
+12 What is Type Casting? Example.
+13 What is Type Enums? Example.
+
+### Practice:
+
+    Create a simple TypeScript application that models a library system. 
+Define a library's name as a `string`, the total number of books as a `number`, 
+and whether the library is open as a `boolean`. Create an interface named `Book` 
+with properties `title`, `author`, and `publishedYear`. Define an array of books 
+using the `Book` interface. Create a function that takes a `Book` and a library name 
+as parameters, returning a formatted string with the book's details and library name. 
+Finally, use this function to display information about a few books.

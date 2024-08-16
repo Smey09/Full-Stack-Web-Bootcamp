@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+    <title>addEventListener Example</title>
+    <style>
+        html,
+        body {
+            height: 100%;
+            margin: 0;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        div {
+            text-align: center;
+        }
+
+        .buttonOnClick,
+        .buttonOnHower {
+            width: 200px;
+            height: 200px;
+        }
+
+        .buttonOnClick {
+            background-color: blueviolet;
+        }
+
+        .example1,
+        .example2,
+        .example3 {
+            text-align: center;
+            height: 90%;
+            width: 30vw;
+            border-radius: 20px;
+            border: 2px solid #b834ff;
+            margin: 5px;
+        }
+
+        .example1 {
+            background-color: antiquewhite;
+        }
+
+        .example2 {
+            background-color: rgb(249, 201, 251);
+        }
+
+        .example3 {
+            background-color: rgb(202, 230, 255);
+        }
+    </style>
+</head>
+
+
+<body>
+    <!-- Example 1 -->
+    <div class="example1">
+        <h1>1 Click Event Example</h1>
+        <button class="buttonOnClick" id="buttonOnClick">Click Me!</button>
+    </div>
+    <script>
+        document.getElementById("buttonOnClick").addEventListener("click", function () {
+            alert("Button was clicked!");
+        });
+    </script>
+
+    <!-- Example 2 -->
+    <div class="example2">
+        <h1>2 Hover Event Example</h1>
+        <button class="buttonOnHower" id="buttonOnHower">Hover Over Me!</button>
+    </div>
+
+    <script>
+        const button = document.getElementById("buttonOnHower");
+
+        button.addEventListener("mouseover", function () {
+            button.style.backgroundColor = "lightgreen";
+        });
+
+        button.addEventListener("mouseout", function () {
+            button.style.backgroundColor = "aqua";
+        });
+    </script>
+
+    <!-- Example 3 -->
+    <div class="example3">
+        <h1>3 Form Submit</h1>
+        <form id="myForm">
+            <label for="username">Username:</label>
+            <input type="text" id="username" name="username">
+            <br><br>
+            <button type="submit">Submit</button>
+        </form>
+    </div>
+    <script>
+        document.addEventListener("DOMContentLoaded", function () {
+            var form = document.getElementById("myForm");
+            form.addEventListener("submit", function (event) {
+                event.preventDefault(); // Prevent form submission
+                var username = document.getElementById("username").value;
+                alert("Form submitted with username: " + username);
+            });
+        });
+    </script>
+
+</body>
+
+</html>

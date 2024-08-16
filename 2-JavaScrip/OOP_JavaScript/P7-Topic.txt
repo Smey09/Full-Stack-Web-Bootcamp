@@ -1,0 +1,24 @@
+Instructions:
+1-Class Design:
+    - Define the Library class with attributes like name and books.
+    - Create a separate Book class with attributes like title, author, genre, and available (to track borrowing).
+2-Basic Operations:
+    + Implement methods for:
+        - Adding a book to the library
+        - Removing a book (by title or ISBN)
+        - Searching for books by title, author, or genre
+        - Displaying a list of all available books
+3-Borrowing and Returning:
+    + Add methods for:
+        - Borrowing a book (check for availability, mark as unavailable)
+        - Returning a book (mark as available)
+4-User Accounts:
+    + Create a User class with attributes like name and borrowed_books.
+    + Implement methods for users to:
+        -   Borrow books
+        -   View their borrowed books
+*** Additional Considerations:
+- What properties in above class should be prevented access or modified?
+- What if there are multiple types of users like Admin, Student?
+- What if we want to limit some rules when borrowing books? For example: students are able to borrow up to 5 books while admin has no limit.
+
